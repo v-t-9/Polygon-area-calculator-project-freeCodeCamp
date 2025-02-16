@@ -84,5 +84,3 @@ if __name__ == "__main__":
     rect.set_height(8)
     rect.set_width(16)
     print(rect.get_amount_inside(sq))
-
-    # 14. An instance of the Square class should have a different string representation after setting new values by using .set_width() or set_height().
